@@ -1,1 +1,177 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.26562261581421,
+            37.87507358318342
+          ],
+          [
+            -122.25882053375244,
+            37.87559864816423
+          ],
+          [
+            -122.25785493850708,
+            37.873650807651345
+          ],
+          [
+            -122.25751161575319,
+            37.87282084256788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.2575330734253,
+            37.87282084256788
+          ],
+          [
+            -122.26562261581421,
+            37.87509052082187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.26564407348631,
+            37.87507358318342
+          ],
+          [
+            -122.26830482482909,
+            37.86978884983687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.26564407348631,
+            37.8751074584564
+          ],
+          [
+            -122.26974248886107,
+            37.87879976982364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "My Apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26562261581421,
+          37.87509052082187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Safeway Community Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26974248886107,
+          37.87878283303809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Soda Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25884199142456,
+          37.87559864816423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Evans Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25785493850708,
+          37.87363386968189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "LeConte Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2575330734253,
+          37.872837780724275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sliver Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26832628250122,
+          37.86977191097951
+        ]
+      }
+    }
+  ]
+}
